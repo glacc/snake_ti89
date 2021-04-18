@@ -1,0 +1,4 @@
+2021-04-18 Reworked scoring system.
+2021-01-31 In-game score display.
+2021-01-18 Graphical improvements.
+2020-11-29 First version. 
