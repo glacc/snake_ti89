@@ -1,8 +1,6 @@
 # snake_ti89
-Snake game on TI-89 calculator
+A snake game written for the TI-89 calculator.
 
+Compile with TIGCC.
 
-
-Written in TIGCC.
-
-Tested in TI-89 Hardware Version 1.0.
+Tested on TI-89 Hardware Version 1.0.
